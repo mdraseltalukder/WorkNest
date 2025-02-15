@@ -2,19 +2,19 @@
 **
 
 ## project name: Restaurant Website.
-<br/>
+
 **
 **about info:**
-this website is about a Real State(WorkNest) website. <br/>
+this website is about a Real State(WorkNest) website.
 [visit-website](https://work-nest-ten.vercel.app/)
 
 **tools i have used:**
 
- -React js  <br/>
-  -React type animation  <br/>
-  -GSAP  <br/>
-  -tailwind css  <br/>
-  -AOS animation  <br/>
+ -React js
+  -React type animation
+  -GSAP
+  -tailwind css
+  -AOS animation
 
 snap: 
 
