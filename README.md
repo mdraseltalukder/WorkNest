@@ -1,7 +1,7 @@
 
 **
 
-## project name: Restaurant Website.
+## project name: Real-State Website.
 
 **
 **about info:**
@@ -10,10 +10,8 @@ this website is about a Real State(WorkNest) website.  <br/>
  <br/>
 **tools i have used:**
 
- -React js  <br/>
-  -React type animation  <br/>
-  -GSAP  <br/>
-  -tailwind css  <br/>
+ -Html  <br/>
+-css  <br/>
   -AOS animation  <br/>
 
 snap: 
